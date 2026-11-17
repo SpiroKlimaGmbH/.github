@@ -1,5 +1,6 @@
+Dieses Profil wird genutzt um Software intern zu verwalten und entwicklen.
 
-Impressum & Rechtliches
+**Rechtliches:
 
 **SPIRO-KLIMA-GERÄTE-PRODUKTION-GMBH** *(Spiro-Klima GmbH)*  
 **Werk & Lager Korneuburg:** Johann Wessely-Weg 2 (Zufahrt Viktor-Kaplan-Straße)2100 Korneuburg, Österreich  
